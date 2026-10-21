@@ -18,9 +18,14 @@ jobs:
           import urllib.request
 
           url = os.environ["ONEDRIVE_URL"]
+
           request = urllib.request.Request(
               url,
-              headers={"User-Agent": "Mozilla/5.0"}
+              headers={
+                  "User-Agent": "Mozilla/5.0",
+                  "Accept": "application/octet-stream,application/json,*/*",
+                  "Referer": "https://k12inc-my.sharepoint.com/"
+              }
           )
 
           with urllib.request.urlopen(request, timeout=30) as response:
