@@ -3,5 +3,10 @@
     "id": 1,
     "message": "I am grateful for my family, friends, and all the little things that make me smile!",
     "status": "Approved"
+  },
+  {
+    "id": 2,
+    "message": "I am thankful for my dog, she is sweet and funny. She like to do tricks.",
+    "status": "Approved"
   }
 ]
