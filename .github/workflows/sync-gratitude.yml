@@ -1,0 +1,13 @@
+name: Test Gratitude Sync
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test OneDrive download
+        run: |
+          echo "GitHub Actions is running!"
+          echo "Next we will test access to the OneDrive JSON."
