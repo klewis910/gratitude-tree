@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 3,
+    "message": "I am grateful for my classmates I am so glad that my classmates are friendly! I am very glad to have my teachers very nice and friendly to me and they are very helpful my counselor and Engagement teachers.",
+    "status": "Approved"
+  },
+  {
+    "id": 4,
+    "message": "Today I am grateful for my little cat, whose name is Cariño, though we call her \"little motor\" because of her purring. I’m also grateful that there are only 7 days left until my birthday.",
+    "status": "Approved"
+  },
+  {
+    "id": 5,
+    "message": "I'm thankful for my entire family.  My mom and dad help me with my schoolwork and my grandma loves me a lot.",
+    "status": "Approved"
+  },
+  {
+    "id": 6,
+    "message": "In my life I'm thankful for in my life my family, friends, and my dog they bring love and joy in to my life. They are the thing that accept did me for what I'm worth so I'm proud to have them in my life. So no matter what I do, they will always support me on my journey of life and that makes me really happy to know that they will be with me on the way.",
+    "status": "Approved"
+  }
+]
