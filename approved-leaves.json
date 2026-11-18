@@ -323,5 +323,10 @@
     "id": 70,
     "message": "im thankful for my mom and what she does for me and she make good food",
     "status": "Approved"
+  },
+  {
+    "id": 71,
+    "message": "I'm thankful for my friends and family.",
+    "status": "Approved"
   }
 ]
